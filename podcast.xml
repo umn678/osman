@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>GitHub Podcast Test</title>
+<link>https://umn678.github.io/osman/</link>
+<description>Independent podcast feed test hosted entirely on GitHub Pages.</description>
+<language>en-us</language>
+<lastBuildDate>Thu, 01 Oct 2026 18:30:00 +0000</lastBuildDate>
+<atom:link href="https://umn678.github.io/osman/podcast.xml" rel="self" type="application/rss+xml"/>
+<itunes:author>Podcast Test</itunes:author>
+<itunes:block>no</itunes:block>
+<itunes:type>episodic</itunes:type>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://umn678.github.io/osman/podcast-cover.jpg"/>
+<itunes:category text="Technology"/>
+<item>
+<title>GitHub Test Episode</title>
+<link>https://umn678.github.io/osman/</link>
+<description>Eight second test audio episode.</description>
+<guid isPermaLink="false">github-podcast-test-20261001-001</guid>
+<pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
+<enclosure url="https://umn678.github.io/osman/test-episode.wav" length="705644" type="audio/wav"/>
+<itunes:duration>00:00:08</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+</channel>
+</rss>
